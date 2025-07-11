@@ -1,0 +1,6 @@
+[class^="col-"] {
+  float: left;
+  padding: 0.5rem;
+}
+
+/* Remove padding/float from individual col classes if still present */
